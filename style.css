@@ -1,0 +1,31 @@
+#display-image{
+  width: 0;
+  height: 0;
+    border: 1px solid black;
+    background-position: center;
+    background-size: cover;
+    visibility: hidden;
+  }
+
+  span{
+    font-size: 12px;
+  }
+
+  .invaliddiv{
+    font-size: 12px;
+    color: red;
+    margin-left: 5px;
+  }
+
+
+
+.radiostyle.radiostyle:unchecked{
+  accent-color: red;
+}
+
+
+.btn1{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
